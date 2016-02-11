@@ -1,0 +1,49 @@
+_repo: James-s-Account-of-S-H-Long-s-Expedition-1819-1820-part-4_48481
+contributor:
+  creator:
+    editor:
+      agent_name: Thwaites, Reuben Gold
+      alias: Thwaites, R. G. (Reuben Gold)
+      birthdate: 1853
+      deathdate: 1913
+      gutenberg_agent_id: '33780'
+      url: http://www.gutenberg.org/2009/agents/33780
+creator:
+  authors:
+  - agent_name: James, Edwin
+    birthdate: 1797
+    deathdate: 1861
+    gutenberg_agent_id: '42387'
+    url: http://www.gutenberg.org/2009/agents/42387
+  - agent_name: Long, Stephen H. (Stephen Harriman)
+    aliases:
+    - Long, Stephen Harriman
+    - Long, S. H. (Stephen Harriman)
+    birthdate: 1784
+    deathdate: 1864
+    gutenberg_agent_id: '38419'
+    url: http://www.gutenberg.org/2009/agents/38419
+  - agent_name: Say, Thomas
+    alias: Say, T. (Thomas)
+    birthdate: 1787
+    deathdate: 1834
+    gutenberg_agent_id: '39552'
+    url: http://www.gutenberg.org/2009/agents/39552
+description: ''
+gutenberg_issued: '2015-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels 1748-1846, v. 17
+subjects:
+- !lcsh 'Indians of North America'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'United States -- Discovery and exploration'
+- !lcsh 'Rocky Mountains'
+- !lcc 'F590.3'
+title: James's Account of S. H. Long's Expedition, 1819-1820, part 4
+url: http://www.gutenberg.org/ebooks/48481
